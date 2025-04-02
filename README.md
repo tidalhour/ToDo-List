@@ -1,2 +1,4 @@
 # ToDo-List
-A simple to-do list made in Java with Swing components.
+
+Progress:
+Day 1: JTextField with input and JButton for inserting input (Not working yet)
